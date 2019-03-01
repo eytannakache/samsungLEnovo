@@ -1,8 +1,5 @@
 import random
 
-print("my two laptops project")
-print("another line")
-
 
 def whos_num_bigger(user_num):
     laptop_num = random.randint(0, 10)
